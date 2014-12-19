@@ -3,6 +3,8 @@ telegram-bot
 
 A telegram bot using https://github.com/vysheng/tg.
 
+This fork adds the ability to forward some messages to an IRC channel. Used for my group communication when someone is offline, only able to use a phone (with Telegram) and needing to send a message to our group's IRC.
+
 Multimedia
 ----------
 - When user sends image (png, jpg, jpeg) URL download and send it to origin.
