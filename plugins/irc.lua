@@ -1,7 +1,7 @@
 require "irc"
 --local sleep = require "socket".sleep
 
-local s = irc.new{nick = "telegramito"}
+local s = irc.new{nick = "telegrito"}
 
 --s:hook("OnChat", function(user, channel, message)
 --print(("[%s] %s: %s"):format(channel, user.nick, message))
